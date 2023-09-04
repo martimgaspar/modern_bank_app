@@ -24,6 +24,7 @@ import people01 from "./people01.png";
 import people02 from "./people02.png";
 import people03 from "./people03.png";
 import statsline from "./statsline.png";
+import icon from "./icon.png";
 
 export {
   airbnb,
@@ -52,4 +53,5 @@ export {
   people02,
   people03,
   statsline,
+  icon,
 };
