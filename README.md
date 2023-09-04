@@ -7,3 +7,5 @@ Overall this project demonstrates mastery:
 - Using Tailwind CSS
 - Adding animations using CSS
 - Organizing a large react project with index's
+
+Demo: https://modern-bank-app-xi.vercel.app/
