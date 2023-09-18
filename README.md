@@ -1,5 +1,8 @@
 # A Modern Bank Website
 
+
+<p style="text-align: center;">Demo: https://modern-bank-app-xi.vercel.app/</p>
+
 Created using the amazing video by JavaScript Mastery on youtube and then changed the website to my liking by changing various assets and adding animations.
 
 Overall this project demonstrates mastery:
@@ -7,5 +10,3 @@ Overall this project demonstrates mastery:
 - Using Tailwind CSS
 - Adding animations using CSS
 - Organizing a large react project with index's
-
-Demo: https://modern-bank-app-xi.vercel.app/
