@@ -1,4 +1,4 @@
-# A Modern Bank Website
+<h1 align="center">A Modern Bank Website>/h1>
 
 
 <p align="center">Demo: https://modern-bank-app-xi.vercel.app/</p>
