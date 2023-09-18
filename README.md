@@ -1,7 +1,7 @@
 # A Modern Bank Website
 
 
-<p style="text-align: center;">Demo: https://modern-bank-app-xi.vercel.app/</p>
+<p align="center">Demo: https://modern-bank-app-xi.vercel.app/</p>
 
 Created using the amazing video by JavaScript Mastery on youtube and then changed the website to my liking by changing various assets and adding animations.
 
